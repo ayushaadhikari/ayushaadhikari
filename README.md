@@ -1,4 +1,4 @@
-👩‍💻📚 Hello! I'm Ayusha, a Full Stack Developer and Computer Science student at TMU
+👩‍💻📚 Hello! I'm Ayusha, a Full Stack Developer and Computer Science Alumni from TMU
 
 🚀🌍 Obsessed with developing useful and innovative technologies to make the world a better place
 
