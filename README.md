@@ -1,7 +1,4 @@
-👩‍💻📚 Hello! I'm Ayusha, a Full Stack Developer and Computer Science Alumni from TMU
+👩‍💻 I’m a Full-Stack / Software Developer with a strong interest in AI and data analytics. I'm a Computer Science graduate with experience building applications in the financial and health tech sectors.
+⚡️ Skilled in Python frameworks like Flask, Django, and FastAPI, as well as full-stack tools including React, Node.js, and MongoDB. I enjoy creating scalable, reliable software that makes a real impact.
+📊 Currently, I’m working on data science and AI projects in Python, using NumPy, Pandas, and the OpenAI API to experiment with large language models (LLMs) and AI-powered applications.
 
-🚀🌍 Obsessed with developing useful and innovative technologies to make the world a better place
-
-🌌🌞 Dreamer by day, Developer at night 
-
-🔧🐛 Turning complexity into simplicity and bugs into victories
