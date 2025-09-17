@@ -1,4 +1,4 @@
-👩‍💻 I’m a Full-Stack / Software Developer with a strong interest in AI and data analytics. I'm a Computer Science graduate with experience building applications in the financial and health tech sectors.
+👩‍💻 I’m a Full-Stack / Software Developer with a strong interest in AI and data analytics. I'm a Computer Science graduate with experience building applications in financial and health tech sectors.
 
 ⚡️ Skilled in Python frameworks like Flask, Django, and FastAPI, as well as full-stack tools including React, Node.js, and MongoDB. I enjoy creating scalable, reliable software that makes a real impact.
 
