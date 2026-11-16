@@ -1,1 +1,1 @@
-Computer Science graduate exploring software development, data engineering, AI/ML, cloud technologies, and IT solutions. Building projects and continuously expanding my technical skill set.
+Hi! I'm a Computer Science graduate interested in data analytics, business intelligence, and technology. I enjoy exploring data, solving problems, and building projects that turn information into meaningful insights. Always learning, experimenting, and working on new projects!
